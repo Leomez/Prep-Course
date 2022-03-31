@@ -1,0 +1,24 @@
+---------------------------------------------------------------
+************************** Respuestas *************************                              
+---------------------------------------------------------------
+
+VARIABLE: Una variable es un espacio de memoria en tu computadora 
+al que se le designa un nombre para almacenar algun tipo de dato 
+para ser utilizado mas tarde.
+
+STRING: Es un tipo de dato compuesto por uno o mas caracteres entre 
+comillas dobles o simples.
+
+FUNCIONES: Las funciones son bloques de codigo que realizan una tarea 
+especifica y luego retornan algo.
+Estas funciones pueden o no tener ARGUMENTOS, que son datos que se les 
+pasan a la funcion para que realice la tarea para la fue creada.
+
+IF: Se les llama condicionales y reciben como argumento 
+una condicion que puede ser un dato o mas, comparados mediante operadores 
+de comparacion, los cuales verifican si la condicion es verdadera o falsa 
+y de acuerdo a eso realizan una determinada accion.
+
+BOOLEANOS: Son un tipo de dato que puede almacenar dos valores especificos:
+True, que significa verdadero; o False, que significa falso.
+
