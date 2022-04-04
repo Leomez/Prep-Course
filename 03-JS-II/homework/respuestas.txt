@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+****************************   Respustas   ***************************
+----------------------------------------------------------------------
+
+FOR: El for es una sentencia que genera un bucle controlado al cual se 
+le pasa, por parametro, tres expresiones que son: una variable, una 
+condicion de parada y un paso. Luego entre llaves va el bloque de codigo 
+que realiza la tarea que queremos que se lleve a cabo en el bucle.
+
+OPERADORES LOGICOS: Los operadores lógicos son 
+
+► &&: Operador AND, singnifica "Y". Lo que hace es comparar entre dos 
+expresiones y si encuentra que ambas son true, entonces retorna true.
+
+► ||: Operador OR, significa "Ò". Lo que hace es comparar dos expresiones 
+y si encuentra que al menos una de las dos es true entonces retorna true.
+
+► !: Operador NOT, significa "NO". Evalua una expresion y devuelve el 
+booleano opuesto al que se le pasa. 
