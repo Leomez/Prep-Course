@@ -1,0 +1,12 @@
+********************************************************************
+---------------------------  Respuesta  ----------------------------
+********************************************************************
+
+ARRAYS: Los arrays son colecciones de elementos. Estos elementos, si 
+bien no tienen un orden aparente, en realidad ocupan un lugar 
+determinado en el arreglo al cual se puede acceder a traves del indice, 
+que es la posicion que ocupa el elemento en la lista.
+
+Los arrays pueden contener elementos de cualquier tipo, numeros, strings, 
+booleanos, etc. Y accediendo al elemento desde el indice, se puede trabajar 
+con el como si fuera una variable común.
