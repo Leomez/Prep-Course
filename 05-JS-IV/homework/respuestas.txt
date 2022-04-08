@@ -1,0 +1,36 @@
+***************************************************************************************
+-----------------------------------  Respuestas  --------------------------------------
+***************************************************************************************
+
+OBJETOS: Los objetos son contenedores de datos, parecidos a los array, pero en este caso 
+los datos que contiene son atributos de una determinada cosa. A esos datos se los 
+denomina propiedades y estan compuestos por un nombre y su valor. Su sintaxis, a diferencia
+de los arrays es con llaves {} en vez de corchetes [], y en su interior, las propiedades.
+
+
+PROPIEDADES: Las propiedades son los datos que contiene un objeto. Se componen por el par 
+clave:valor que son el nombre (key) y el valor (value) que adquiere, respectivamente. 
+Los valores que puede tener una propiedad son cualquier tipo de dato, incluso funciones u 
+otro objeto.
+
+Se puede acceder a ellos de dos maneras: usando puntos o corchetes. 
+
+* Usando puntos: se llama al nombre del objeto y luego un punto seguido de la clave. Esta 
+forma se denomina notacion de punto
+
+* Usando corchetes: se llama al nombre del objeto seguido de corchetes entre los que va la 
+clave. Notacion de corchetes. 
+
+
+METODOS: Se les llama metodos a las funciones guardadas como valores de una propiedad. Para 
+hacer uso de la funcion se las llama usando la notacion de punto y parentesis al final. Se 
+les puede pasar argumentos si corresponde.
+
+
+FOR...IN: Es ua expresion que sirve para iterar objetos. Es parecido al for solo que en este 
+caso no usa variables numericas para recorrer el objeto, ya que en los objetos no hay indices 
+numéricos. En su lugar utiliza una variable que va a recorrer las claves seguido de la palabra
+clave IN y luego el nombre del objeto.
+Con esto se puede tener acceso a cada clave del objeto y a su valor por medio de la notacion 
+de corchetes.
+
