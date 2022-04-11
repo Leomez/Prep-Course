@@ -1,0 +1,19 @@
+*********************************************************************
+--------------------------  Respuestas  -----------------------------
+*********************************************************************
+
+
+PROTOTYPE: El mecanismo que tiene javaScrip para optimizar recursos 
+ en la creación de objetos es mediante el uso de plantillas que son 
+ las clases. Si hay que crear varias instancias de esa clase, la cual 
+ a su vez tiene varios métodos, las clases tiene  una propiedad lamada 
+ prototype que le da acceso a un determinado método a cada objeto sin 
+ tener que sobrecargar la memoria con la creación de métodos para cada 
+ objeto. Solo es necesario crearlo una sola vez y luego se puede acceder
+ cuando sea necesario de la misma forma en la que se accede a cualquier 
+ método.
+
+ CRONSTRUCTORS: Es el metodo por medio del cual se le da forma a la 
+ plantilla de una determinada clase. Por convencion el nombre del metodo 
+ siempre debe empezar con mayuscula. Dentro del constructor, cada 
+ propiedad va precedida por la palabra clave this. 
