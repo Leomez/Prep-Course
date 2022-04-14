@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200630/pngtree-blueprint-digital-paper-background-design-super-high-resolution-image_340503.jpg);
+    background-position: center;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+}    
+
+h1 {
+    color: darkolivegreen;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: darkgoldenrod;
+    padding: 50px;
+    border: solid 2px red;
+    
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
